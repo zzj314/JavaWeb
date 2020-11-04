@@ -1,0 +1,2541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="5book:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19a5f4ed-c2aa-4d2e-b615-ba7c030be0e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/05_web_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/07_servlet_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/08_jsp_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/13_cookie_session_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/15_filter_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/16_json_ajax_i18n_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/5book_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/_servlet_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/book_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/tmp_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/05_xml_lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/5book_lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/JDBC_lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/book_lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_web/05_web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_web/src/tomcatJar/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_web/web/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_web/web/WEB-INF/lib/commons-dbutils-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_web/web/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_web/web/WEB-INF/lib/druid-1.1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_web/web/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_web/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_web/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_web/web/WEB-INF/lib/kaptcha-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_web/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_web/web/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_web/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_web/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_web/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_servlet/06_servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_servlet/src/servletEdit/ContextServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_servlet/src/servletEdit/ContextServlet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_servlet/src/servletEdit/ContextServlet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_servlet/src/servletEdit/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_servlet/src/servletEdit/HelloServlet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_servlet/src/servletEdit/HelloServlet3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_servlet/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_servlet/web/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_servlet/web/css/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_servlet/web/imgs/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_servlet/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_servlet/07_servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_servlet/src/com/servlet/ForwardC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_servlet/src/com/servlet/ParameterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_servlet/src/com/servlet/RequestAPIServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_servlet/src/com/servlet/ResponeIOServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_servlet/src/com/servlet/Response1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_servlet/src/com/servlet/Response2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_servlet/src/com/servlet/Servlet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_servlet/src/com/servlet/Servlet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_servlet/web/WEB-INF/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_servlet/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_servlet/web/a/b/c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_servlet/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/08_jsp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/out_response输出原理" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/src/com/atguigu/listener/MyServletContextListenerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/src/com/atguigu/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/src/com/atguigu/servlet/PringHtml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/src/com/atguigu/servlet/SearchStudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/_errorPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/a.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/autoFlush_buffer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/forEach.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/include/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/include/footer2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/include/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/include/main2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/include/动态包含原理" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/include/静态包含原理" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/language_contentType.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/out_writer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/test/showStudent.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/test/test1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/test/test2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/writer_print.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/三大注释.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/代码脚本.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/四大域对象.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/四大域对象2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/四大域对象3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/声明脚本.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsp/web/表达式脚本.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/09_EL_JSTL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/src/com/guigu/base64/Base64Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/src/com/guigu/pojo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/src/com/guigu/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/src/com/guigu/servlet/Download.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/src/com/guigu/servlet/UploadServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/WEB-INF/lib/commons-io-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/_empty.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/a.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/b.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/c.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/core.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/d.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/f.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/file/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/file/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/forEach.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/other_el_obj.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/pageContent.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/scope.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_EL_JSTL/web/upload.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11个隐含对象" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_cookie_session/13_cookie_session.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_cookie_session/src/com/guigu/servlet/BaseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_cookie_session/src/com/guigu/servlet/CookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_cookie_session/src/com/guigu/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_cookie_session/src/com/guigu/servlet/SessionServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_cookie_session/src/com/guigu/util/CookieUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_cookie_session/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_cookie_session/web/cookie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_cookie_session/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_cookie_session/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_cookie_session/web/session.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_filter/15_filter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_filter/src/com/guigu/filter/AdminFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_filter/src/com/guigu/filter/Filter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_filter/src/com/guigu/filter/Filter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_filter/src/com/guigu/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_filter/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_filter/web/admin/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_filter/web/admin/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_filter/web/admin/a.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_filter/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_filter/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_filter/web/target.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/16_json_ajax_i18n.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/src/com/guigu/json/JsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/src/com/guigu/json/PersonListType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/src/com/guigu/json/PersonMapType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/src/com/guigu/pojo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/src/com/guigu/servlet/AjaxServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/src/com/guigu/servlet/BaseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/web/Jquery_Ajax_request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/web/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/web/ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/web/i18n.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/web/i18n_fmt.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/web/json.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_json_ajax_i18n/web/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/5book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/src/com/it/dao/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/src/com/it/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/src/com/it/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/src/com/it/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/src/com/it/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/src/com/it/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/src/com/it/test/JdbcUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/src/com/it/test/UserDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/src/com/it/test/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/src/com/it/utils/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/src/com/it/web/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/src/com/it/web/RegistServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/src/com/it/web/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/src/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/WEB-INF/lib/commons-dbutils-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/WEB-INF/lib/druid-1.1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/pages/cart/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/pages/cart/checkout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/pages/common/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/pages/common/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/pages/common/login_success_menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/pages/common/manager_menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/pages/manager/book_edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/pages/manager/book_manager.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/pages/manager/manager.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/pages/manager/order_manager.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/pages/order/order.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/pages/user/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/pages/user/login_success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/pages/user/regist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/pages/user/regist_success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/static/img/code.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/static/img/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/static/img/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/static/img/pwd-icons-new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book/web/static/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/5book_static.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/pages/cart/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/pages/cart/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/pages/manager/book_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/pages/manager/book_manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/pages/manager/manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/pages/manager/order_manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/pages/order/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/pages/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/pages/user/login_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/pages/user/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/pages/user/regist_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/static/img/code.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/static/img/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/static/img/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/static/img/pwd-icons-new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5book_static/static/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/03-变量.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/04-关系运算.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/05-0nullundefined空串为false.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/05.DOM查询练习/dom查询.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/05.DOM查询练习/style/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/06-数组.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/07-函数的第一种定义方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/08-函数的第二种定义方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/09-js不允许函数重载.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/10-隐形参数arguments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/11-Object形式的自定义对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/12-大括号形式的自定义对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/JQuery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/JavaScript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/document/createElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/document/getElementById.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/document/getElementsByName.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/document/getElementsByTagName.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/document/regexp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/document/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/document/wrong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/event/onblur.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/event/onchange.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/event/onclick.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/event/onload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/event/onsubmit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaWeb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_JDBC/_JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_JDBC/navicat安装注册" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_JDBC/src/com/jdbctest/JDBCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_JDBC/src/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_JDBC/分组函数" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_JDBC/排序" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_JDBC/条件查询" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_JDBC/表的创建" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/dao/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/dao/OrderItemDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/dao/impl/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/dao/impl/OrderDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/dao/impl/OrderItemDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/filter/ManagerFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/filter/TransactionFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/pojo/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/pojo/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/pojo/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/pojo/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/pojo/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/pojo/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/test/BookDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/test/BookServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/test/CartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/test/JdbcUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/test/OrderDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/test/OrderItemDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/test/OrderServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/test/UserDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/test/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/test/UserServletTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/utils/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/utils/WebUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/web/BaseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/web/BookServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/web/CartServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/web/ClientBookServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/web/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/web/OrderServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/web/RegistServelet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/atg/web/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/commons-dbutils-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/druid-1.1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/kaptcha-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/cart/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/cart/checkout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/client/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/common/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/common/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/common/login_success__menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/common/manager_menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/common/page_nav.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/error/error404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/error/error500.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/manager/book_edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/manager/book_manager.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/manager/manager.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/manager/order_manager.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/order/order.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/test/dzcp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/test/fzyp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/user/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/user/login_success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/user/regist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/user/regist_success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/static/img/code.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/static/img/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/static/img/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/static/img/pwd-icons-new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/static/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/t.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/05_book_static.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/book_static.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/pages/cart/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/pages/cart/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/pages/manager/book_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/pages/manager/book_manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/pages/manager/manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/pages/manager/order_manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/pages/order/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/pages/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/pages/user/login_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/pages/user/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/pages/user/regist_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/static/img/code.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/static/img/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/static/img/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/static/img/pwd-icons-new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_static/static/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checked属性注意事项" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document对象的查询优先级" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getElementsByName获取的是设置的name属性" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/css/01.CSS基本语法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/css/02.标签名选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/css/03.ID选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/css/04.class类型选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/css/05.组合选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/css/06-css常用样式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/css/1-css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/css/2-css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/css/3-css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/html/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/html/divspanp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/html/font标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/html/iframe标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/html/img标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/html/列表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/html/标签语法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/html/标题标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/html/特殊字符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/html/表单.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/html/表单提交细节.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/html/表单放到表格里显示.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/html/表格标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/html/表格跨行跨列.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/html/超链接.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/html_css.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/imgs/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo01.入门/01.HelloWorld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo01.入门/01.HelloWorld_.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo01.入门/02.$的本质.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo01.入门/03.核心函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo01.入门/04.DOM对象和jQuery对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo02.选择器/01.基本选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo02.选择器/02.层次选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo02.选择器/03.基本的过滤选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo02.选择器/04.内容过滤选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo02.选择器/05.可见性过滤选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo02.选择器/06.属性过滤选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo02.选择器/08.表单对象属性过滤选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo02.选择器/09.元素筛选方法__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo03.DOM操作/2、dom属性操作___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo03.DOM操作/3、dom增删改___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo03.DOM操作/style/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo04.CSS样式操作/jqueryCss.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo04.CSS样式操作/jqueryCss___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo04.CSS样式操作/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/01.文档加载/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/01.文档加载/load.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/01.文档加载/load___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/02.事件绑定/bind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/02.事件绑定/bind____.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/02.事件绑定/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/03.事件移除/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/03.事件移除/style/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/03.事件移除/style/css.css.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/03.事件移除/unbind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/03.事件移除/unbind___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/04.事件冒泡/bubble.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/04.事件冒泡/bubble___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/04.事件冒泡/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/05.事件对象/eventObj.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/05.事件对象/eventObj__emp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo05.事件/05.事件对象/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo06.动画/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo06.动画/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo06.动画/动画.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/Demo06.动画/动画__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/script/jquery-2.0.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/script/源码.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/test2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/test3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习01 选择器练习01 隔行变色/ex_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习01 选择器练习01 隔行变色/ex_3_emp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习01 选择器练习01 隔行变色/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习02 选择器练习02 全选全不选/ex-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习02 选择器练习02 全选全不选/ex-4__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习03 选择器练习03 表单选择器/ex_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习03 选择器练习03 表单选择器/ex_5_emp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习03 选择器练习03 表单选择器/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习03 选择器练习03 表单选择器/表单选择器练习_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习03 选择器练习03 表单选择器/表单选择器练习_5__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习04 DOM操作01 selected/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习04 DOM操作01 selected/selected.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习04 DOM操作01 selected/selected空白.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习04 DOM操作01 selected/从左到右，从右到左.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习04 DOM操作01 selected/从左到右，从右到左__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习05 DOM操作02 添加删除记录/ex-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习05 DOM操作02 添加删除记录/ex-5___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习05 DOM操作02 添加删除记录/styleB/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习05 DOM操作02 添加删除记录/添加删除记录-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习05 DOM操作02 添加删除记录/添加删除记录-5___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习06 CSS_动画 品牌展示/displaydcs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习06 CSS_动画 品牌展示/displaydcs__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习06 CSS_动画 品牌展示/displaydcs空白.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习06 CSS_动画 品牌展示/img/down.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习06 CSS_动画 品牌展示/img/up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习06 CSS_动画 品牌展示/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习07 事件 图片跟随/img/big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习07 事件 图片跟随/img/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习07 事件 图片跟随/imgFollow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习07 事件 图片跟随/imgFollow__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习07 事件 图片跟随/imgFollow空白.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/Demo/练习/☆练习07 事件 图片跟随/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/jQuery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/jQuery对象是dom对象数组+jQuery提供的函数功能" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/window.jQuery=window.$=jQuery" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/面试题" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery对象与Dom对象" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery源码" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybook/mybook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_servlet_war_exploded/WEB-INF/classes/com/servlet/ForwardC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_servlet_war_exploded/WEB-INF/classes/com/servlet/ParameterServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_servlet_war_exploded/WEB-INF/classes/com/servlet/RequestAPIServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_servlet_war_exploded/WEB-INF/classes/com/servlet/ResponeIOServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_servlet_war_exploded/WEB-INF/classes/com/servlet/Response1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_servlet_war_exploded/WEB-INF/classes/com/servlet/Response2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_servlet_war_exploded/WEB-INF/classes/com/servlet/Servlet1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_servlet_war_exploded/WEB-INF/classes/com/servlet/Servlet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_servlet_war_exploded/WEB-INF/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_servlet_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_servlet_war_exploded/a/b/c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_servlet_war_exploded/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/WEB-INF/classes/META-INF/08_jsp.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/WEB-INF/classes/com/atguigu/listener/MyServletContextListenerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/WEB-INF/classes/com/atguigu/pojo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/WEB-INF/classes/com/atguigu/servlet/PringHtml.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/WEB-INF/classes/com/atguigu/servlet/SearchStudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/_errorPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/a.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/autoFlush_buffer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/include/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/include/footer2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/include/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/include/main2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/include/动态包含原理" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/include/静态包含原理" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/language_contentType.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/out_writer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/test/showStudent.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/test/test1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/test/test2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/writer_print.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/三大注释.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/代码脚本.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/四大域对象.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/四大域对象2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/四大域对象3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/声明脚本.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/08_jsp_war_exploded/表达式脚本.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/WEB-INF/classes/com/guigu/base64/Base64Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/WEB-INF/classes/com/guigu/pojo/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/WEB-INF/classes/com/guigu/pojo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/WEB-INF/classes/com/guigu/servlet/Download.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/WEB-INF/classes/com/guigu/servlet/UploadServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/WEB-INF/lib/commons-io-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/_empty.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/a.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/b.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/c.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/core.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/d.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/f.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/file/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/file/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/forEach.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/other_el_obj.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/pageContent.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/scope.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/09_EL_JSTL_war_exploded/upload.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/13_cookie_session_war_exploded/WEB-INF/classes/META-INF/13_cookie_session.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/13_cookie_session_war_exploded/WEB-INF/classes/com/guigu/servlet/BaseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/13_cookie_session_war_exploded/WEB-INF/classes/com/guigu/servlet/CookieServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/13_cookie_session_war_exploded/WEB-INF/classes/com/guigu/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/13_cookie_session_war_exploded/WEB-INF/classes/com/guigu/servlet/SessionServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/13_cookie_session_war_exploded/WEB-INF/classes/com/guigu/util/CookieUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/13_cookie_session_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/13_cookie_session_war_exploded/cookie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/13_cookie_session_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/13_cookie_session_war_exploded/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/13_cookie_session_war_exploded/session.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/15_filter_war_exploded/WEB-INF/classes/com/guigu/filter/AdminFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/15_filter_war_exploded/WEB-INF/classes/com/guigu/filter/Filter1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/15_filter_war_exploded/WEB-INF/classes/com/guigu/filter/Filter2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/15_filter_war_exploded/WEB-INF/classes/com/guigu/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/15_filter_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/15_filter_war_exploded/admin/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/15_filter_war_exploded/admin/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/15_filter_war_exploded/admin/a.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/15_filter_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/15_filter_war_exploded/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/15_filter_war_exploded/target.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/Jquery_Ajax_request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/WEB-INF/classes/com/guigu/json/JsonTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/WEB-INF/classes/com/guigu/json/JsonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/WEB-INF/classes/com/guigu/json/PersonListType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/WEB-INF/classes/com/guigu/json/PersonMapType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/WEB-INF/classes/com/guigu/pojo/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/WEB-INF/classes/com/guigu/servlet/AjaxServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/WEB-INF/classes/com/guigu/servlet/BaseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/i18n.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/i18n_fmt.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/json.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/16_json_ajax_i18n_war_exploded/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/classes/META-INF/5book.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/classes/com/it/dao/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/classes/com/it/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/classes/com/it/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/classes/com/it/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/classes/com/it/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/classes/com/it/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/classes/com/it/test/JdbcUtilsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/classes/com/it/test/UserDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/classes/com/it/test/UserServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/classes/com/it/utils/JdbcUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/classes/com/it/web/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/classes/com/it/web/RegistServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/classes/com/it/web/UserServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/lib/commons-dbutils-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/lib/druid-1.1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/pages/cart/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/pages/cart/checkout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/pages/common/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/pages/common/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/pages/common/login_success_menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/pages/common/manager_menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/pages/manager/book_edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/pages/manager/book_manager.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/pages/manager/manager.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/pages/manager/order_manager.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/pages/order/order.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/pages/user/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/pages/user/login_success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/pages/user/regist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/pages/user/regist_success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/static/img/code.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/static/img/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/static/img/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/static/img/pwd-icons-new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/5book_war_exploded/static/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/_servlet_war_exploded/WEB-INF/classes/META-INF/06_servlet.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/_servlet_war_exploded/WEB-INF/classes/servletEdit/ContextServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/_servlet_war_exploded/WEB-INF/classes/servletEdit/ContextServlet1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/_servlet_war_exploded/WEB-INF/classes/servletEdit/ContextServlet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/_servlet_war_exploded/WEB-INF/classes/servletEdit/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/_servlet_war_exploded/WEB-INF/classes/servletEdit/HelloServlet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/_servlet_war_exploded/WEB-INF/classes/servletEdit/HelloServlet3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/_servlet_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/_servlet_war_exploded/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/_servlet_war_exploded/css/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/_servlet_war_exploded/imgs/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/_servlet_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/META-INF/book.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/dao/OrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/dao/OrderItemDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/dao/impl/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/dao/impl/OrderDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/dao/impl/OrderItemDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/filter/ManagerFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/filter/TransactionFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/pojo/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/pojo/Cart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/pojo/CartItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/pojo/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/pojo/OrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/pojo/Page.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/service/BookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/service/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/service/impl/BookServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/service/impl/OrderServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/test/BookDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/test/BookServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/test/CartTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/test/JdbcUtilsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/test/OrderDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/test/OrderItemDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/test/OrderServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/test/UserDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/test/UserServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/test/UserServletTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/utils/JdbcUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/utils/WebUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/web/BaseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/web/BookServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/web/CartServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/web/ClientBookServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/web/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/web/OrderServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/web/RegistServelet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/com/atg/web/UserServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/lib/commons-dbutils-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/lib/druid-1.1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/lib/kaptcha-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/cart/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/cart/checkout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/client/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/common/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/common/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/common/login_success__menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/common/manager_menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/common/page_nav.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/error/error404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/error/error500.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/manager/book_edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/manager/book_manager.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/manager/manager.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/manager/order_manager.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/order/order.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/test/dzcp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/test/fzyp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/user/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/user/login_success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/user/regist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/pages/user/regist_success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/static/img/code.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/static/img/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/static/img/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/static/img/pwd-icons-new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/static/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/book_war_exploded/t.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/tmp_war_exploded/WEB-INF/classes/META-INF/tmp.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/tmp_war_exploded/WEB-INF/classes/com/guigu/servlet/RegistServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/tmp_war_exploded/WEB-INF/lib/kaptcha-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/tmp_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/tmp_war_exploded/lib/kaptcha-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/tmp_war_exploded/ok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/tmp_war_exploded/regist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/05_web/tomcatJar/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/06_servlet/servletEdit/ContextServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/06_servlet/servletEdit/ContextServlet1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/06_servlet/servletEdit/ContextServlet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/06_servlet/servletEdit/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/06_servlet/servletEdit/HelloServlet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/06_servlet/servletEdit/HelloServlet3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/07_servlet/com/servlet/ForwardC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/07_servlet/com/servlet/ParameterServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/07_servlet/com/servlet/RequestAPIServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/07_servlet/com/servlet/ResponeIOServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/07_servlet/com/servlet/Response1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/07_servlet/com/servlet/Response2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/07_servlet/com/servlet/Servlet1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/07_servlet/com/servlet/Servlet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/08_jsp/com/atguigu/listener/MyServletContextListenerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/08_jsp/com/atguigu/pojo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/08_jsp/com/atguigu/servlet/PringHtml.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/08_jsp/com/atguigu/servlet/SearchStudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/09_EL_JSTL/com/guigu/base64/Base64Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/09_EL_JSTL/com/guigu/pojo/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/09_EL_JSTL/com/guigu/pojo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/09_EL_JSTL/com/guigu/servlet/Download.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/09_EL_JSTL/com/guigu/servlet/UploadServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/13_cookie_session/com/guigu/servlet/BaseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/13_cookie_session/com/guigu/servlet/CookieServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/13_cookie_session/com/guigu/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/13_cookie_session/com/guigu/servlet/SessionServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/13_cookie_session/com/guigu/util/CookieUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/15_filter/com/guigu/filter/AdminFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/15_filter/com/guigu/filter/Filter1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/15_filter/com/guigu/filter/Filter2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/15_filter/com/guigu/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/16_json_ajax_i18n/com/guigu/json/JsonTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/16_json_ajax_i18n/com/guigu/json/JsonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/16_json_ajax_i18n/com/guigu/json/PersonListType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/16_json_ajax_i18n/com/guigu/json/PersonMapType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/16_json_ajax_i18n/com/guigu/pojo/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/16_json_ajax_i18n/com/guigu/servlet/AjaxServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/16_json_ajax_i18n/com/guigu/servlet/BaseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5book/META-INF/5book.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5book/com/it/dao/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5book/com/it/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5book/com/it/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5book/com/it/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5book/com/it/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5book/com/it/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5book/com/it/test/JdbcUtilsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5book/com/it/test/UserDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5book/com/it/test/UserServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5book/com/it/utils/JdbcUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5book/com/it/web/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5book/com/it/web/RegistServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5book/com/it/web/UserServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5book/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_JDBC/com/jdbctest/JDBCTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_JDBC/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/dao/BookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/dao/OrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/dao/OrderItemDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/dao/impl/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/dao/impl/OrderDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/dao/impl/OrderItemDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/filter/ManagerFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/filter/TransactionFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/pojo/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/pojo/Cart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/pojo/CartItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/pojo/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/pojo/OrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/pojo/Page.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/service/BookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/service/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/service/impl/BookServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/service/impl/OrderServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/test/BookDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/test/BookServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/test/CartTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/test/JdbcUtilsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/test/OrderDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/test/OrderItemDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/test/OrderServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/test/UserDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/test/UserServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/test/UserServletTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/utils/JdbcUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/utils/WebUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/web/BaseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/web/BookServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/web/CartServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/web/ClientBookServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/web/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/web/OrderServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/web/RegistServelet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/com/atg/web/UserServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/book/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/tmp/com/guigu/servlet/RegistServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/tmp/com/guigu/threadlocal/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/tmp/com/guigu/threadlocal/ThreadLocalTest$Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/tmp/com/guigu/threadlocal/ThreadLocalTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/xml/books.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/xml/com/atguigu/pojo/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/xml/com/atguigu/pojo/Dom4jTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet使用请求转发把数据给jsp显示" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/src/com/guigu/servlet/RegistServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/src/com/guigu/threadlocal/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/src/com/guigu/threadlocal/ThreadLocalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/tmp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/web/lib/kaptcha-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/web/ok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/web/regist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web中的相对路径与绝对路径" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml/src/books.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml/src/com/atguigu/pojo/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml/src/com/atguigu/pojo/Dom4jTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml/xml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml/xml/books.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/同步与异步理解" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/含义" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/层级选择器" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/快捷键/快捷键" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组一体化写法" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/有反斜杠和无反斜杠的区别" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/10jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/11jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/12jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/13jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/14jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/15jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/16jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/17jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/18jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/19jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/1jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/20jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/21jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/22jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/23jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/24jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/25jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/26jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/27jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/28jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/29jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/2jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/30jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/31jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/32jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/33jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/34jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/35jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/36jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/37jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/38jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/39jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/3jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/40jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/41jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/42jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/43jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/44jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/4jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/5jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/6jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/7jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/8jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/9jq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/jQuery分析/jquery-2.0.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/源码分析/源码分析.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/疑惑" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/表单提交的name与value属性" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/路径区分" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/转发与重定向" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/逻辑运算注意事项" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/配置Tomcat" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaWeb" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="package-info" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>btn02</find>
+      <find>username</find>
+      <find>tesst</find>
+      <find>\t</find>
+      <find>\n</find>
+      <find>里面的</find>
+      <find>showless</find>
+      <find>tit</find>
+      <find>jQuery</find>
+      <find>Sizzle</find>
+      <find>Callbacks</find>
+      <find>rootj</find>
+      <find>important</find>
+      <find>_servlet</find>
+      <find>6</find>
+      <find>abstract</find>
+      <find>init(</find>
+      <find>getServletCo</find>
+      <find>service(</find>
+      <find>.html</find>
+      <find>manager/bookServlet</find>
+      <find>manager/bookServlet?action=page</find>
+      <find>client/bookServlet?action=page</find>
+      <find>登录</find>
+      <find>base</find>
+      <find>basePath</find>
+      <find>CartItem</find>
+      <find>购物车</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>06_servlet</replace>
+      <replace>.jsp</replace>
+      <replace>client/bookServlet</replace>
+      <replace>${requestScope.page.url}</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\IdeaProjects\JavaWeb\book\web\pages</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/book/src/com/atg/dao/impl/OrderDaoImpl.java" />
+        <option value="$PROJECT_DIR$/book/src/com/atg/dao/impl/OrderItemDaoImpl.java" />
+        <option value="$PROJECT_DIR$/book/src/com/atg/dao/impl/BookDaoImpl.java" />
+        <option value="$PROJECT_DIR$/book/src/com/atg/utils/JdbcUtils.java" />
+        <option value="$PROJECT_DIR$/book/src/com/atg/dao/impl/BaseDao.java" />
+        <option value="$PROJECT_DIR$/book/src/com/atg/web/OrderServlet.java" />
+        <option value="$PROJECT_DIR$/book/web/pages/error/error500.jsp" />
+        <option value="$PROJECT_DIR$/book/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/book/web/pages/error/error404.jsp" />
+        <option value="$PROJECT_DIR$/book/src/com/atg/filter/TransactionFilter.java" />
+        <option value="$PROJECT_DIR$/book/web/pages/cart/checkout.jsp" />
+        <option value="$PROJECT_DIR$/book/src/com/atg/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/16_json_ajax_i18n/web/json.html" />
+        <option value="$PROJECT_DIR$/16_json_ajax_i18n/src/com/guigu/pojo/Person.java" />
+        <option value="$PROJECT_DIR$/16_json_ajax_i18n/src/com/guigu/json/PersonListType.java" />
+        <option value="$PROJECT_DIR$/16_json_ajax_i18n/src/com/guigu/json/PersonMapType.java" />
+        <option value="$PROJECT_DIR$/16_json_ajax_i18n/src/com/guigu/json/JsonTest.java" />
+        <option value="$PROJECT_DIR$/16_json_ajax_i18n/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/16_json_ajax_i18n/src/com/guigu/servlet/BaseServlet.java" />
+        <option value="$PROJECT_DIR$/同步与异步理解" />
+        <option value="$PROJECT_DIR$/16_json_ajax_i18n/web/ajax.html" />
+        <option value="$PROJECT_DIR$/16_json_ajax_i18n/src/com/guigu/servlet/AjaxServlet.java" />
+        <option value="$PROJECT_DIR$/16_json_ajax_i18n/web/Jquery_Ajax_request.html" />
+        <option value="$PROJECT_DIR$/book/src/com/atg/web/UserServlet.java" />
+        <option value="$PROJECT_DIR$/book/web/pages/user/regist.jsp" />
+        <option value="$PROJECT_DIR$/book/src/com/atg/web/CartServlet.java" />
+        <option value="$PROJECT_DIR$/book/src/com/atg/web/BaseServlet.java" />
+        <option value="$PROJECT_DIR$/book/web/pages/client/index.jsp" />
+        <option value="$PROJECT_DIR$/5book_static/pages/user/regist.html" />
+        <option value="$PROJECT_DIR$/5book/src/com/it/utils.fxml" />
+        <option value="$PROJECT_DIR$/5book/src/com/it/pojo/User.java" />
+        <option value="$PROJECT_DIR$/5book/src/com/it/utils/JdbcUtils.java" />
+        <option value="$PROJECT_DIR$/5book/src/jdbc.properties" />
+        <option value="$PROJECT_DIR$/5book/src/com/it/test/JdbcUtilsTest.java" />
+        <option value="$PROJECT_DIR$/5book/src/com/it/dao/impl/BaseDao.java" />
+        <option value="$PROJECT_DIR$/5book/src/com/it/dao/impl/UserDao.java" />
+        <option value="$PROJECT_DIR$/5book/src/com/it/dao/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/5book/src/com/it/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/5book/src/com/it/test/UserDaoTest.java" />
+        <option value="$PROJECT_DIR$/5book/src/com/it/service/impl/UserService.java" />
+        <option value="$PROJECT_DIR$/5book/src/com/it/service/UserService.java" />
+        <option value="$PROJECT_DIR$/5book/src/com/it/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/5book/src/com/it/test/UserServiceTest.java" />
+        <option value="$PROJECT_DIR$/5book/web/pages/user/regist_success.jsp" />
+        <option value="$PROJECT_DIR$/5book/web/pages/user/regist.jsp" />
+        <option value="$PROJECT_DIR$/5book/src/com/it/web/UserServlet.java" />
+        <option value="$PROJECT_DIR$/5book/src/com/it/web/RegistServlet.java" />
+        <option value="$PROJECT_DIR$/5book/web/pages/user/login_success.jsp" />
+        <option value="$PROJECT_DIR$/5book/web/pages/user/login.jsp" />
+        <option value="$PROJECT_DIR$/5book/src/com/it/web/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/5book/web/WEB-INF/web.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="true" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/work/maven_work/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\work\maven_work\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="archetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="23" />
+    <option name="y" value="47" />
+    <option name="width" value="1247" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <showExcludedFiles Scope="true" ProjectPane="true" />
+      <hideEmptyPackages ProjectPane="true" />
+      <abbreviatePackageNames ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15715621" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2752809" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.it.test" />
+      <recent name="com.atg.test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\JavaWeb\07_servlet\web\WEB-INF" />
+      <recent name="E:\IdeaProjects\JavaWeb\html_css" />
+      <recent name="E:\IdeaProjects\JavaWeb" />
+      <recent name="E:\IdeaProjects\JavaWeb\html" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.it.web" />
+      <recent name="com.guigu.filter" />
+      <recent name="com.guigu.servlet" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\JavaWeb\5book\web" />
+      <recent name="E:\IdeaProjects\JavaWeb\5book\web\WEB-INF\lib" />
+      <recent name="E:\IdeaProjects\JavaWeb\5book_static\static\script" />
+      <recent name="E:\IdeaProjects\JavaWeb\5book_static" />
+      <recent name="E:\IdeaProjects\JavaWeb\book\web\WEB-INF\lib" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.atg.service.impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.5book">
+    <configuration name="UserDaoTest.saveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="5book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.it.test" />
+      <option name="MAIN_CLASS_NAME" value="com.it.test.UserDaoTest" />
+      <option name="METHOD_NAME" value="saveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.existsUsername" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="5book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.it.test" />
+      <option name="MAIN_CLASS_NAME" value="com.it.test.UserServiceTest" />
+      <option name="METHOD_NAME" value="existsUsername" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atg.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atg.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atg.test.UserServiceTest" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.loginUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="5book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.it.test" />
+      <option name="MAIN_CLASS_NAME" value="com.it.test.UserServiceTest" />
+      <option name="METHOD_NAME" value="loginUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.registUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="5book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.it.test" />
+      <option name="MAIN_CLASS_NAME" value="com.it.test.UserServiceTest" />
+      <option name="METHOD_NAME" value="registUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="09_EL_JSTL" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\develop\Java\jdk1.8.0_05\jre">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/09_EL_JSTL" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="09_EL_JSTL:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/09_EL_JSTL" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_JavaWeb" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65240" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="13_cookie_session" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\develop\Java\jdk1.8.0_05\jre">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/13_cookie_session/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="13_cookie_session:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/13_cookie_session" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_JavaWeb" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65240" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="13_cookie_session:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="15_filter" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\develop\Java\jdk1.8.0_05\jre">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/15_filter/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="15_filter:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/15_filter" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_JavaWeb" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65240" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="15_filter:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="16_json_ajax_i18n" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\develop\Java\jdk1.8.0_05\jre">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="16_json_ajax_i18n:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/16_json_ajax_i18n" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_JavaWeb" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65240" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="16_json_ajax_i18n:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="5book" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\develop\Java\jdk1.8.0_05\jre">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/5book/" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="5book:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/5book" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_JavaWeb" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65240" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="5book:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\develop\Java\jdk1.8.0_05\jre">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_JavaWeb" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65240" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65259" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="book" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="book:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/book" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_0_50_JavaWeb_4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54406" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="book:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="tmp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\develop\Java\jdk1.8.0_05\jre">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/tmp/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="tmp:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/tmp" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_JavaWeb" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65240" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="tmp:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UserDaoTest.saveUser" />
+      <item itemvalue="JUnit.UserServiceTest.registUser" />
+      <item itemvalue="JUnit.UserServiceTest.loginUser" />
+      <item itemvalue="JUnit.UserServiceTest.login" />
+      <item itemvalue="JUnit.UserServiceTest.existsUsername" />
+      <item itemvalue="Tomcat Server.book" />
+      <item itemvalue="Tomcat Server.09_EL_JSTL" />
+      <item itemvalue="Tomcat Server.13_cookie_session" />
+      <item itemvalue="Tomcat Server.tmp" />
+      <item itemvalue="Tomcat Server.15_filter" />
+      <item itemvalue="Tomcat Server.16_json_ajax_i18n" />
+      <item itemvalue="Tomcat Server.5book" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest.existsUsername" />
+        <item itemvalue="JUnit.UserServiceTest.loginUser" />
+        <item itemvalue="JUnit.UserServiceTest.login" />
+        <item itemvalue="JUnit.UserServiceTest.registUser" />
+        <item itemvalue="JUnit.UserDaoTest.saveUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19a5f4ed-c2aa-4d2e-b615-ba7c030be0e0" name="Default Changelist" comment="" />
+      <created>1591844607858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591844607858</updated>
+      <workItem from="1591844616555" duration="238708000" />
+      <workItem from="1593309914849" duration="15612000" />
+      <workItem from="1593331957042" duration="89004000" />
+      <workItem from="1593924693589" duration="3024000" />
+      <workItem from="1594182421181" duration="16782000" />
+      <workItem from="1594258126813" duration="53329000" />
+      <workItem from="1594520336497" duration="18222000" />
+      <workItem from="1594627948485" duration="10909000" />
+      <workItem from="1594647070256" duration="48477000" />
+      <workItem from="1594898900982" duration="52022000" />
+      <workItem from="1595235440224" duration="126127000" />
+      <workItem from="1595596731654" duration="1174000" />
+      <workItem from="1595650359689" duration="159000" />
+      <workItem from="1604496400196" duration="533000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserServiceTest_registUser - 2020.07.23 at 21h 28m 39s.xml">
+      <configuration name="UserServiceTest.registUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_loginUser - 2020.07.23 at 21h 29m 27s.xml">
+      <configuration name="UserServiceTest.loginUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_registUser - 2020.07.23 at 21h 30m 22s.xml">
+      <configuration name="UserServiceTest.registUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_registUser - 2020.07.23 at 21h 32m 22s.xml">
+      <configuration name="UserServiceTest.registUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_registUser - 2020.07.23 at 21h 32m 43s.xml">
+      <configuration name="UserServiceTest.registUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_loginUser - 2020.07.23 at 21h 33m 27s.xml">
+      <configuration name="UserServiceTest.loginUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_login - 2020.07.23 at 21h 33m 47s.xml">
+      <configuration name="UserServiceTest.login" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_loginUser - 2020.07.23 at 21h 34m 26s.xml">
+      <configuration name="UserServiceTest.loginUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_loginUser - 2020.07.23 at 21h 34m 39s.xml">
+      <configuration name="UserServiceTest.loginUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_existsUsername - 2020.07.23 at 21h 35m 30s.xml">
+      <configuration name="UserServiceTest.existsUsername" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="674082000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1308" height="784" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.5086207" side_tool="true" weight="0.16797642" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.64046824" visible="true" weight="0.197411" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.21603054" weight="0.45317724" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32608697" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32901135" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.49007633" side_tool="true" weight="0.25919732" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.14427482" weight="0.18227425" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.41221374" side_tool="true" weight="0.39966556" />
+      <window_info anchor="bottom" id="Application Servers" order="13" sideWeight="0.25170842" weight="0.32608697" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.18860511" weight="0.32911393" />
+      <window_info anchor="bottom" id="Debug" order="15" sideWeight="0.58778626" weight="0.40468228" />
+      <window_info anchor="right" id="Word Book" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.33908948" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Web" order="8" sideWeight="0.5058005" weight="0.16564885" />
+      <window_info anchor="right" id="Structure" order="9" sideWeight="0.468" weight="0.15267175" />
+      <window_info anchor="right" x="700" y="116" width="439" height="573" id="Documentation" order="10" sideWeight="0.5054348" side_tool="true" weight="0.0648855" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="11" sideWeight="0.532" side_tool="true" weight="0.11908397" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.5086207" side_tool="true" weight="0.16797642" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.64046824" visible="true" weight="0.15725191" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.21603054" weight="0.45317724" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32608697" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32901135" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.49007633" side_tool="true" weight="0.25919732" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.14427482" weight="0.18227425" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.4114504" side_tool="true" weight="0.38294315" />
+      <window_info anchor="bottom" id="Application Servers" order="13" sideWeight="0.25170842" weight="0.32608697" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.18860511" weight="0.32911393" />
+      <window_info anchor="bottom" id="Debug" order="15" sideWeight="0.5885496" weight="0.40468228" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.33908948" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Web" order="8" sideWeight="0.5058005" weight="0.16564885" />
+      <window_info anchor="right" id="Structure" order="9" sideWeight="0.468" weight="0.15267175" />
+      <window_info anchor="right" x="700" y="116" width="439" height="573" id="Documentation" order="10" sideWeight="0.5054348" side_tool="true" weight="0.0648855" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="11" sideWeight="0.532" side_tool="true" weight="0.11908397" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/16_json_ajax_i18n/src/com/guigu/servlet/AjaxServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="76" column="49" lean-forward="true" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16_json_ajax_i18n/web/Jquery_Ajax_request.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="62" column="82" lean-forward="true" selection-start-line="62" selection-start-column="82" selection-end-line="62" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/web/pages/user/regist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/atg/web/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/atg/web/CartServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#deleteItem#0;class#CartServlet#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/atg/web/BaseServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/web/pages/client/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_css/html/divspanp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_css/html/font标签.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_css/html/iframe标签.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book_static/pages/user/regist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book_static/pages/user/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book_static/static/script/jquery-1.7.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book_static/pages/user/regist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/src/com/it/utils.fxml" />
+    <entry file="file://$PROJECT_DIR$/5book/src/com/it/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+          <folding>
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/5book/web/WEB-INF/lib/druid-1.1.9.jar!/com/alibaba/druid/pool/DruidDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="1207" column="33" selection-start-line="1207" selection-start-column="33" selection-end-line="1207" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/Java/jdk1.8.0_05/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="347" column="23" selection-start-line="347" selection-start-column="23" selection-end-line="347" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/src/com/it/utils/JdbcUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/src/com/it/test/JdbcUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/5book/web/WEB-INF/lib/commons-dbutils-1.3.jar!/org/apache/commons/dbutils/QueryRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding>
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/src/com/it/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/atg/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/src/com/it/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/atg/test/UserServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-end-line="15" />
+          <folding>
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/src/com/it/test/UserServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="28" column="64" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
+          <folding>
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/src/com/it/test/UserDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="31" column="76" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/src/com/it/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="9" column="82" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/web/pages/user/regist_success.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-206">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/src/com/it/web/RegistServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="31" column="82" selection-start-line="31" selection-start-column="82" selection-end-line="31" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/web/pages/user/regist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-end-line="10" />
+          <folding>
+            <element signature="e#303#1959#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/web/pages/user/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="38" column="46" lean-forward="true" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/web/pages/user/login_success.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/src/com/it/web/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="31" column="4" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/atg/web/BookServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/atg/service/BookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/atg/dao/impl/BookDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/atg/dao/BookDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/atg/service/impl/BookServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/src/com/it/dao/BaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#queryForOne#0;class#BaseDao#0" />
+            <element signature="method#queryForList#0;class#BaseDao#0" />
+            <element signature="method#queryForSingleValue#0;class#BaseDao#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/src/com/it/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5book/src/com/it/web/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/疑惑">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/配置Tomcat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery/Demo/Demo01.入门/01.HelloWorld.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_servlet/src/servletEdit/ContextServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_cookie_session/src/com/guigu/servlet/CookieServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servlet使用请求转发把数据给jsp显示">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>5book:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (5book)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>book</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>5book_lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

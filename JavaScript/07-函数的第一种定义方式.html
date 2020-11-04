@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        // 定义一个无参函数
+        function fun() {
+            alert("无参数执行了");
+        }
+        function fun1(a,b) {
+            alert("带参执行了"+a+","+b);
+        }
+        // 函数调用===才会执行
+        // fun();
+        // fun1(1,2);
+        // 定义带有返回值的函数
+        function sum(num1, num2) {
+            var result =num1+num2;
+            return result;
+        }
+        alert(sum(10,20));
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

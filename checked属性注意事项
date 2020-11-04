@@ -1,0 +1,8 @@
+那就是在HTML中，只要设置checked属性，
+无论是否赋值，或者赋何种值，复选框都是选中状态。
+但是在通过JavaScript进行操作的时候，并非如此。
+
+在使用JavaScript进行动态操作的时候，
+设置checked属性值可为true或者false可以复选框设置为选中和非选中状态，
+经过测试，
+设置为"checked"也可以设置为选中状态，设置为undefined也可以取消选中

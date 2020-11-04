@@ -1,0 +1,8 @@
+ancestor descendant
+    后代选择器 ：在给定的祖先元素下匹配所有的后代元素
+parent > child
+    子元素选择器：在给定的父元素下匹配所有的子元素
+prev + next
+    相邻元素选择器：匹配所有紧接在prev元素后的next 元素
+prev ~ sibings
+    之后的兄弟元素选择器：匹配prev元素之后的所有siblings 元素

@@ -1,0 +1,3 @@
+如果有id属性，优先getElementById
+如果没有id，优先getElementsByName
+如果都没有，按标签名查询getElementsByTagName

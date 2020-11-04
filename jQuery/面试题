@@ -1,0 +1,3 @@
+$(this) 和 this 关键字在 jQuery 中有何不同？
+    $(this) 返回一个 jQuery 对象
+    你可以对它调用多个 jQuery 方法

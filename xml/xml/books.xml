@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<books>
+    <book id="sn">
+        <name>java</name>
+        <author>hu</author>
+        <price></price>
+    </book>
+    <book id="sn">
+        <name>
+            <![CDATA[
+            <<<<葵花
+            ]]>
+        </name>
+        <author>ban</author>
+        <price>5</price>
+    </book>
+</books>

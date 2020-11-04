@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        // 静态注册失去焦点事件
+        // console是控制台对象，是由JavaScript语言提供，专门用来向浏览器的控制器打印输出， 用于测试使用
+        // log() 是打印的方法
+        function onblurFun() {
+            // alert("静态失去焦点");
+            console.log("静态注册失去焦点");
+        }
+
+        // 动态注册onblur事件
+        window.onload=function () {
+            //1 获取标签对象
+           var passwordObj = document.getElementById("psw");
+            // alert(passwordObj);
+            //2 通过标签对象.事件名 = function(){};
+            passwordObj.onblur=function () {
+                // alert("动态注册失去焦点");
+                console.log("动态注册失去焦点");
+            }
+        }
+    </script>
+</head>
+<body>
+    用户名: <input type="text" onblur="onblurFun();"><br/>
+    密码: <input type="text" id="psw"><br/>
+    <!--    <button></button>-->
+    <!--    <button></button>-->
+</body>
+</html>

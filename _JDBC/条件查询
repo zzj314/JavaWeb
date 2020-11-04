@@ -1,0 +1,11 @@
+in 等同于or：
+select job from emp where job in ('salesman','manager');
+select job form emp where sal in(1000,5000);
+注意是找出等于1000的，或等于5000的，不是区间
+
+not in（a，b）不在这些值
+
+like中的特殊符号：
+%：任意字符
+_: 一个字符
+需要转义的话：加\

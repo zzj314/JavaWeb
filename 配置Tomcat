@@ -1,0 +1,32 @@
+到tomcat的bin目录下catalina run
+好处：可以看到错误信息
+
+关闭tomcat：
+1.点关闭
+2.按ctrl+c
+3.在bin目录下运行shutdown.bat
+
+修改端口号：
+mysql：默认是3306
+tomcat：默认是8080
+localhost:ip地址
+
+一个xml表示一个工程
+
+何为上下文：
+通俗一点理解就是，当程序从一个位置调到另一个位置的时候，
+这个时候就叫上下文的切换（因为他要保存现场，各种的压栈，出栈等等），
+进程之间切换也叫上下文切换，因为也要保存现场，以便切换回之前的线程
+
+<Context path ="/abc" docBase="E:\book" />
+abc意思是要访问E:\book
+
+WEB-INF：是受保护的目录，浏览器无法直接访问
+
+Application context:默认生成的工程路径/05_web_war_exploded
+http://localhost:8080/05_web_war_exploded/：启动tomcat运行实例时，
+            默认打开访问的地址
+
+
+ //要在获取请求参数之前调用才有效
+request.setCharacterEncoding("UTF-8");

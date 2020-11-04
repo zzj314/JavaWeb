@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+       function checkAll() {
+           //为什么也是在页面加载完成后，因为我们点击按钮的触发事件
+           //的时候，页面也是加载完成了的
+           var inputs = document.getElementsByTagName("input");
+           // alert(inputs);//[object HTMLCollection]
+
+           // 全选
+           // document.getElementsByTagName("input");
+           // 是按照指定标签名来进行查询并返回集合
+           // 这个集合的操作跟数组 一样
+           // 集合中都是dom对象
+           // 集合中元素顺序 是他们在html页面中从上到下的顺序。
+           for (var i = 0; i < inputs.length; i++) {
+               inputs[i].checked = true;
+           }
+       }
+    </script>
+</head>
+<body>
+
+    <!--as -->
+    兴趣爱好：
+    <input type="checkbox" value="c++" checked="checked" >c++
+    <input type="checkbox" value="java" >java
+    <input type="checkbox" value="c">c
+    <br/>
+    <button onclick="checkAll();">全选</button>
+<!--    <button onclick="checkNo()">全不选</button>-->
+<!--    <button onclick="checkReserve()">反选</button>-->
+
+</body>
+</html>

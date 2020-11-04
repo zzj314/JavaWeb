@@ -1,0 +1,17 @@
+http://www.baidu.com/folder/
+这个 URI 以一个 / 结尾，表示 folder 是一个目录，
+我们要访问的是这个目录下的文件，
+但是又没有说明是这个目录下的哪个文件，
+此时依然是采用该目录下 index.html 或者 default.html 一类的文件。
+
+有的时候，我们还可以看到下面这种 URI：
+http://www.baidu.com/folder
+即 folder 后面没有 /，此时会先将 folder
+当作一个资源去访问(比如一个名为 folder 的 Servlet )，
+如果没有名为 folder 的资源，
+那么浏览器会自动在 folder 后面加上一个 / ，
+此时地址变为 http://www.baidu.com/folder/ ，
+folder 是一个目录，然后就会去尝试访问
+ folder 目录下的 index.html 或者 default.html。
+
+ URI 可以是 URL ，也可以是 URN 或两者兼备

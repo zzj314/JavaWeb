@@ -1,0 +1,6 @@
+$是什么？  函数, 是jQuery的核心函数
+function(selector,context){
+    return new jQuery.fn.init(selector,context,rootjQuery);
+}
+
+jQuery对象是什么？ dom对象的数组+功能函数

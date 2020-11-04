@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--使用img标签显示一张图片。并修改宽高和边框属性
+img标签是图片变迁，用来显示图片
+width设置图片宽度，height高度，border图片边框
+alt属性设置当指定路径找不到图片时，用来代替显示的文本内容
+
+在javase中：
+    相对路径：从工程名算起
+    绝对路径：盘符：/目录/文件名
+
+在web中：
+    相对路径：
+        .       表示当前文件所在目录
+        ..      表示当前文件所在的上一级目录
+        文件名  表示当前文件所在目录的文件，相当于./文件名 ./可以省略
+    绝对路径：
+        正确格式：http://ip:port/工程名/资源路径
+        错误格式：盘符：/目录/文件名
+-->
+    <!--./可以省略-->
+    <img src="1.jpg" width="200" height="260" border="1" alt="找不到"/>
+    <img src="../../2.jpg" width="200" height="260" />
+    <img src="../imgs/3.jpg" width="200" height="260" />
+    <img src="../imgs/4.jpg" width="200" height="260" />
+    <img src="../imgs/5.jpg" width="200" height="260" />
+<img src="" alt="">
+</body>
+</html>

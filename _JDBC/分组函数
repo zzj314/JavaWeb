@@ -1,0 +1,30 @@
+select		5
+    ..
+from			1
+    ..
+where			2
+    ..
+group by		3
+    ..
+having		4
+    ..
+order by		6
+
+count 计数
+sum   求和
+avg   平均
+max   最大
+min   最小
+分组函数都是对一组数据进行操作的
+
+整个一张表当前一组数据
+
+select deptno,max(sal) from emp group by deptno having max(sal) > 2900;
+不建议这样，效率低，
+而应该是这样：
+select deptno,max(sal) from emp where sal > 2900 group by deptno;
+DBMS DB SQL
+
+select ename,distinct 错误，因为ename是14条，distinct就5条
+内连接数据会丢失，因为两个表是平等的
+外连接则能够保证主表的数据，再去拼接其他表

@@ -1,0 +1,5 @@
+main.jsp把rep，resp，out传递到footer.jsp页面
+故footer.jsp页面也有了指向out缓冲区的引用
+他们都分别把内容放到out中，然后一起输出
+
+动态包含还可以传递其他参数

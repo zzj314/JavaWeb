@@ -1,0 +1,15 @@
+Object[ ]params=new Object[ ]{ };
+
+这是 Object类型的的数组定义构建初始化一体的写法
+但是里面没有初始化任何Object对象 params的index一个也没有
+这写法跟 Object[] params = null；的唯一区别就是 前者非null 后者params是null
+其实没什么意义，只有1个数组引用，连Object类型的引用都没有定义出来
+
+正常的写法是
+Object[] params;//定义
+params = new Object[3];//构建,这时只有定义的4个引用，没有实际对象
+params[0] = new Object();//初始化
+params[1] = new Object();
+params[2] = new Object();
+后者一体的
+Object[] params = new Object[]{ new Object(),new Object(),new Object()};

@@ -1,0 +1,102 @@
+Dom对象
+1.通过 getElementById()查询出来的标签对象是Dom对象
+2.通过 getElementsByName()查询出来的标签对象是Dom对象
+3.通过 getElementsByTagName()查询出来的标签对象是Dom对象
+4.通过 createElement()方法创建的对象，是Dom对象
+DOM 对象 Alert 出来的效果是：[object HTML标 签 名 Element]
+
+jQuery对象
+5.通过 JQuery 提供的 API 创建的对象，是 JQuery 对象
+6.通过 JQuery 包装的 Dom 对象，也是 JQuery 对象
+7.通过 JQuery 提供的 API 查询到的对象，是 JQuery 对象
+jQuery 对象 Alert 出来的效果是：[objectObject]
+
+基本选择器：5个
+    #ID
+    .class
+    element
+    *
+    selector1,selector2
+selector1，selector2 组合选择器：合并选择器1，选择器2的结果并返回
+p.myClass:表示标签名必须是p标签，而且class类型还要是myClass
+
+层级选择器：4个
+    ancestor descendant 所有后代              find(expr)
+    parent > child      直接后代,儿子         children([expr])
+    prev + next         后接邻居，下一个兄弟  next([expr])
+    prev ~ siblings     后接兄弟，后面的兄弟  nextAll([expr])
+
+过滤选择器：10个
+    :first
+    :last
+    :not(selector)
+    :even
+    :odd
+    :eq(index)
+    :gt(index)
+    :lt(index)
+    :header         标题元素
+    :animated       动画元素
+
+内容过滤器：4个
+    :contains(text)     含文本的元素
+    :empty              不含子元素或文本为空的元素
+    :parent             含子元素或文本的元素
+    :has(selector)      子元素是选择器元素
+
+属性过滤器：7个
+    [attribute]             含该属性的元素
+    [attribute=value]       属性为该值的元素
+    [attribute!=value]
+    [attribute^=value]
+    [attribute$=value]
+    [attribute*=value]
+    [attrSel1][attrSel2]    同时满足
+
+表单过滤器：11个
+    :input      input,textarea,select,button元素
+    :text       文本输入框
+    :password   密码输入框
+    :radio      单选框
+    :checkbox   复选框
+    :submit
+    :image
+    :reset
+    :button
+    :file
+    :hidden     不可见元素display:none或input type=hidden
+
+表单对象属性过滤器：
+    :enabled
+    :disabled
+    :checked
+    :selected
+
+jQuery的方法：可以链式调用
+过滤：10个
+     eq(index)                              :eq()
+     first()                                :first
+     last()                                 :last
+     hasClass(class)
+     filter(express|obj|element|function)   :filter(exp)
+     is(同上)
+     map(callback)
+     has(express|element)                   :has
+     not(express|element|function)          :not
+     slice(start,[end])
+
+ 查找：14个
+     children([expr])                       :parent>child
+     closest(expr,[con]|obj|ele)
+     find(expr|obj|ele)                     ancestor descendant
+     next([expr])                           prev+next
+     nextall([expr])                        prev~siblings
+     nextUntil([exp|ele][,fil])
+     offsetParent()
+     parent([expr])
+     parents([expr])
+     parentsUntil([exp|ele],[,fil])
+     prev([expr])
+     prevall([expr])
+     prevUntil([exp|ele],[,fil])
+     siblings([expr])

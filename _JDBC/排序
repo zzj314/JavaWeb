@@ -1,0 +1,10 @@
+asc升序
+desc降序
+order by 字段1，字段2，
+注意：越靠前的字段越主导，只有前面无法排序的时候，
+      才会启用后面的字段
+select ename,sal from emp order by 1;
+数字1代表第一列，既ename，但是不健壮
+
+mysql> select sal,job from emp where job = 'salesman' order by sal desc;
+先执行from，再where，然后select，最后再order by

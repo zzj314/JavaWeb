@@ -1,0 +1,158 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Untitled Document</title>
+<link rel="stylesheet" type="text/css" href="styleB/css.css" />
+<script type="text/javascript" src="../../script/jquery-1.7.2.js"></script>
+<script type="text/javascript">
+
+	$(function () {
+		//alert("里面的"+this);
+		var deleteFun = function(){
+			var $trObj = $(this).parent().parent();
+			var name = $trObj.find("td:first").text();
+			//alert(text);
+			if (confirm("你确定要删除["+name+"]吗？")) {
+				//不知道删的是哪一行，有个this是知道的
+				//this是在a便签那层的，要删的tr是其爷爷，所以取其parent的parent
+				$trObj.remove();
+				//但是不知道删了谁，提示没有标明，要加上
+			}
+			return false;
+		}
+
+		$("#addEmpButton").click(function () {
+			var name = $("#empName").val();
+			var email = $("#email").val();
+			var salary = $("#salary").val();
+			var $trObj = $("<tr>" +
+					"<td>"+ name + "</td>" +
+					"<td>"+ email +"</td>" +
+					"<td>"+ salary +"</td>" +
+					"<td><a href=\"deleteEmp?id=002\">Delete</a></td>" +
+					"</tr>");
+			$trObj.appendTo($("#employeeTable"));
+			//放到里面表示，你每添加一次，就绑定一次添加事件
+			// $("a").click(function () {
+			// 	// alert(1);
+			// 	//alert(confirm("你确定要删除吗？"));
+			// 	var $trObj = $(this).parent().parent();
+			// 	var name = $trObj.find("td:first").text();
+			// 	//alert(text);
+			// 	if (confirm("你确定要删除["+name+"]吗？")) {
+			// 		//不知道删的是哪一行，有个this是知道的
+			// 		//this是在a便签那层的，要删的tr是其爷爷，所以取其parent的parent
+			// 		$trObj.remove();
+			// 		//但是不知道删了谁，提示没有标明，要加上
+			// 	}else {
+			//
+			// 	}
+			// 	return false;
+			// });
+			//
+			// $trObj.find("a").click(function () {
+			// 	//alert("补充");
+			// 	var $trObj = $(this).parent().parent();
+			// 	var name = $trObj.find("td:first").text();
+			// 	//alert(text);
+			// 	if (confirm("你确定要删除["+name+"]吗？")) {
+			// 		//不知道删的是哪一行，有个this是知道的
+			// 		//this是在a便签那层的，要删的tr是其爷爷，所以取其parent的parent
+			// 		$trObj.remove();
+			// 		//但是不知道删了谁，提示没有标明，要加上
+			// 	}
+			// 	return false;
+			// deleteFun();
+			$("a").click(deleteFun);
+			});
+
+		//
+		//$("a").click(function () {
+			// alert(1);
+			//alert(confirm("你确定要删除吗？"));
+			// var $trObj = $(this).parent().parent();
+			// var name = $trObj.find("td:first").text();
+			// //alert(text);
+			// if (confirm("你确定要删除["+name+"]吗？")) {
+			// 	//不知道删的是哪一行，有个this是知道的
+			// 	//this是在a便签那层的，要删的tr是其爷爷，所以取其parent的parent
+			// 	$trObj.remove();
+			// 	//但是不知道删了谁，提示没有标明，要加上
+			// }
+			// return false;
+			//不行是因为this被包装到了函数里面，表示的不再是外层的事件响应函数
+			//alert("外层："+this);
+			//deleteFun();
+
+	//});
+		//替换掉
+		$("a").click(deleteFun);
+	});
+</script>
+</head>
+<body>
+
+	<table id="employeeTable">
+		<tr>
+			<th>Name</th>
+			<th>Email</th>
+			<th>Salary</th>
+			<th>&nbsp;</th>
+		</tr>
+		<tr>
+			<td>Tom</td>
+			<td>tom@tom.com</td>
+			<td>5000</td>
+			<td><a href="deleteEmp?id=001">Delete</a></td>
+		</tr>
+		<tr>
+			<td>Jerry</td>
+			<td>jerry@sohu.com</td>
+			<td>8000</td>
+			<td><a href="deleteEmp?id=002">Delete</a></td>
+		</tr>
+		<tr>
+			<td>Bob</td>
+			<td>bob@tom.com</td>
+			<td>10000</td>
+			<td><a href="deleteEmp?id=003">Delete</a></td>
+		</tr>
+	</table>
+
+	<div id="formDiv">
+	
+		<h4>添加新员工</h4>
+
+		<table>
+			<tr>
+				<td class="word">name: </td>
+				<td class="inp">
+					<input type="text" name="empName" id="empName" />
+				</td>
+			</tr>
+			<tr>
+				<td class="word">email: </td>
+				<td class="inp">
+					<input type="text" name="email" id="email" />
+				</td>
+			</tr>
+			<tr>
+				<td class="word">salary: </td>
+				<td class="inp">
+					<input type="text" name="salary" id="salary" />
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center">
+					<button id="addEmpButton" value="abc">
+						Submit
+					</button>
+				</td>
+			</tr>
+		</table>
+
+	</div>
+
+</body>
+</html>

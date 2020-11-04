@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        // 全选
+        function checkAll() {
+        // 让所有复选框都选中
+        // document.getElementsByName();
+            // 是根据 指定的name属性查询返回多个标签对象集合
+            var hobbySel = document.getElementsByName("hobby");
+            // alert(hobbySel);//[object NodeList]
+        // 这个集合的操作跟数组一样
+        // 集合中每个元素都是dom对象
+        // 这个集合中的元素顺序是他们在html页面中从上到下的顺序
+            for (var i = 0; i < hobbySel.length; i++) {
+                // alert(hobbySel[i]);
+                // hobbySel[i].setAttribute("checked","true");
+                // checked表示复选框的选中状态。如果选中是true，不选中是false
+                // checked 这个属性可读，可写
+                hobbySel[i].checked=true;
+            }
+        }
+        //全不选
+        // checked表示复选框的选中状态。如果选中是true，不选中是false
+        // checked 这个属性可读，可写
+        function checkNo() {
+            var hobbySel = document.getElementsByName("hobby");
+            for (var i = 0; i < hobbySel.length; i++) {
+                // alert(hobbySel[i]);
+                // hobbySel[i].setAttribute("checked", "false");
+                hobbySel[i].checked=false;
+            }
+        }
+        // 反选
+        function checkReserve() {
+            var hobbySel = document.getElementsByName("hobby");
+            for (var i = 0; i < hobbySel.length; i++) {
+               // if (hobbySel[i].checked==false){
+               //     hobbySel[i].checked=true;
+               // } else {
+               //     hobbySel[i].checked=false;
+               // }
+                hobbySel[i].checked=!hobbySel[i].checked;
+            }
+        }
+    </script>
+</head>
+<body>
+    兴趣爱好：
+    <input type="checkbox" name="hobby" value="c++" >
+    <input type="checkbox" name="hobby" value="java" >
+    <input type="checkbox" name="hobby" value="c">
+    <br/>
+    <button onclick="checkAll();">全选</button>
+    <button onclick="checkNo()">全不选</button>
+    <button onclick="checkReserve()">反选</button>
+</body>
+</html>

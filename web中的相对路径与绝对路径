@@ -1,0 +1,21 @@
+相对路径：
+    .       当前目录
+    ..      上一级目录
+    资源名  当前目录/资源名
+
+绝对路径：
+    http://ip:port/工程路径/资源路径
+
+web 中 / 斜杠的不同意义
+在 web 中 / 斜杠 是一种绝对路径。
+
+/ 斜杠 如果被浏览器解析，得到的地址是：http://ip:port/
+<a href="/">斜杠</a>   http://localhost:8080/
+
+/ 斜杠 如果被服务器解析，得到的地址是：http://ip:port/工程路径
+1、<url-pattern>/servlet1</url-pattern>
+2、servletContext.getRealPath(“/”);
+3、request.getRequestDispatcher(“/”);
+
+特殊情况： response.sendRediect(“/”);
+把斜杠发送给浏览器解析。得到 http://ip:port/

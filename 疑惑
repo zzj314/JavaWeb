@@ -1,0 +1,5 @@
+选择所有不可见的 input 元素
+show()方法无效？？
+
+在each遍历的function函数中，
+有一个this对象。这个this对象是当前正在遍历到的dom对象

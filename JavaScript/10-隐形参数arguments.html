@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--隐形参数像javase中的可变参数一样-->
+    <script type="text/javascript">
+        function fun() {
+
+            //  alert(arguments);//[object Arguments]
+            //  alert(arguments.length);//可看参数个数
+            //  alert("无参数函数")
+            // alert(arguments[0]);
+            // alert(arguments[1]);
+            // alert(arguments[2]);
+            // for (var i = 0; i < arguments.length; i++) {
+                // alert(arguments[i]);
+            // }
+        }
+
+        // fun(1,"ad");
+        // fun(1,"ad",true);
+        // 需求：要求 编写 一个函数。
+        // 用于计算所有参数相加的和并返回
+        alert(argsSum(10,3020,"abc",40));
+        function argsSum() {
+            var sum =0;
+            for (var i = 0; i < arguments.length; i++) {
+                if (typeof(arguments[i])=="number"){
+                    sum =sum+arguments[i];
+                }
+
+            }
+            return sum;
+        }
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

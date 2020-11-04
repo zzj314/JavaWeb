@@ -1,0 +1,37 @@
+Ctrl+R：替换
+Ctrl+P 方法参数提示
+ctrl+alt+t:            选择6可以try.catch
+当前方法下按ctrl+shift+t 生成方法的测试方法
+html:5                 HTML5结构
+link:css+回车	       <link rel="stylesheet" href="style.css">
+script:src	           引入js
+script	               html中插入js
+ul+	                   ul及一个li
+a:link	               <a href=”http://”></a>
+a:mail	               <a href=”mailto:“></a>
+form:get	            get表单
+input:hidden	        hidden输入框
+div#name	            id:name
+div.name	            class:name
+div.one.two	            class:one,two
+head>link:css	        head加link
+p+p                 	两个p
+p*3	                    3个p
+ul>li.item$*6	        创建ul下有个li同时class分别为item1，item2.。。
+pos	                    postion,组合可用pos:s|a|r|f
+t	                    top,组合a auto
+r	                    right,组合 a
+l	                    left
+b	                    bottom
+z	                    z-index
+fl	                    float
+cl	                    clear
+d	                    display 组合可用n|b|i|ib
+v	                    visibility
+ov	                    overflow
+zoo	                    zoom:1
+cp	                    clip
+bx	                    box-sizing
+bxsh:w	                -webkit-box-shadow:
+                        0 0 0 #000;
+ctrl+shift+alt+U:显示类继承关系图

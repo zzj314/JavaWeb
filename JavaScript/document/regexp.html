@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        // 表示要求字符串中，是否包含字母e
+        // var patt = new RegExp("e");
+        // alert(patt);/e/  // var patt = /e/; 也是正则表达式对象
+        // var patt = /e/;
+        // var str = "abec";
+        // alert(patt.test(str));
+        // 表示要求字符串中，是否包含字母a或b或c
+        // var patt = /[abc]/;
+        // var str = "e";
+        // alert(patt.test(str));
+        // 表示要求字符串，是否包含小写字母
+        // var patt = /[a-z]/;
+        // var str = "ABc";
+        // alert(patt.test(str));
+        // 表示要求字符串，是否包含任意大写字母
+        // var patt = /[A-Z]/;
+        // var str = "abc";
+        // alert(patt.test(str));
+        // 表示要求字符串，是否包含任意数字
+        // var patt = /[0-9]/;
+        // var str = "ABc1.1";
+        // alert(patt.test(str));
+        // 表示要求字符串，是否包含字母，数字，下划线
+        // var patt = /\w/;
+        // var str = "--";
+        // alert(patt.test(str));
+        // 表示要字符串中是否包含至少一个a
+        // var patt = /a+/;
+        // var str = "ABca";
+        // alert(patt.test(str));
+        // 表示要求字符串中是否包含零个或多个a
+        // var patt =/a*/;
+        // var str = "ABc";
+        // alert(patt.test(str));
+        // 表示要求字符串是否包含一个或零个a
+        // var patt = /a?/;
+        // var str = "aaaa";
+        // alert(patt.test(str));//true
+        // 表示要求字符串是否包含连续三个a
+        // var patt = /a{3}/;
+        // var str = "ABcaaa";
+        // alert(patt.test(str));
+        // 表示要求字符串是否包 至少3个连续的a，最多5个连续的a
+        // var patt = /a{3,5}/;
+        // var str = "ABcaaaaaa";
+        // alert(patt.test(str));
+        // 表示要求字符串是否包 至少3个连续的a，
+        // var patt = /a{3,}/;
+        // var str = "ABcaa";
+        // alert(patt.test(str));
+        // 表示要求字符串必须以a结尾
+        // var patt = /a$/;
+        // var str = "ABcaaa";
+        // alert(patt.test(str));
+        // 表示要求 字符串必须以a打头
+        // var patt = /^a/;
+        // var str = "aABc";
+        // alert(patt.test(str));
+        // 要求字符串中是否*包含* 至少3个连续的a
+        // var patt = /a{3,}/;
+        // var str = "aABc";
+        // alert(patt.test(str));
+        // 要求字符串，从头到尾都必须完全匹配
+        // var patt = /^a{3,5}$/;
+        // var str = "aaaaaa";
+        // alert(patt.test(str));
+
+        var patt = /^\w{5,12}$/;
+        var str = "aaaaaaa[]";
+        alert(patt.test(str));
+    </script>
+</head>
+<body>
+
+</body>
+</html>
